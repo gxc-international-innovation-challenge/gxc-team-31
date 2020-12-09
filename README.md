@@ -14,8 +14,30 @@ The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of comm
 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
-- Research: This included a study of precedent projects that have dealt with similar situations in different regions around the world. The issue of youth involvement and the lack thereof was a significant research point, indicating the need for communities to work toward positive relationships between adults and youth, creating a supportive community where youth may find a profound sense of belonging. A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective.
+- Research: This included a study of [precedent projects](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research) that have dealt with similar situations in different regions around the world. The issue of youth involvement and the lack thereof was a significant research point, indicating the need for communities to work toward positive relationships between adults and youth, creating a supportive community where youth may find a profound sense of belonging. A wide breadth of [interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) were conducted with youngsters as well as educators to gain a deeper understanding and perspective.
 
-- Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.
+- Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a [storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/Storyboard-7.PNG), a [press release](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation), and [frequently-asked-questions](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation). This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.
 
-- Prototyping: 
+- Prototyping: An [initial prototype](https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down) was produced and shared with the KJR for feedback. The prototype was also tested with other critics including children and web developers. Using feedback from the first prototype, an improved [second prototype](https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31?node-id=0%3A1&scaling=scale-down) was produced for final presentation.
+
+<br/>
+
+**WIKI NAVIGATION**
+
+01 [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki)
+
+02 Background 
+> A [Team Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Team-Canvas)
+<br /> B [Problem Statement](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Problem-Statement)
+<br /> C [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
+<br /> D [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews)
+
+03 [Ideation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
+
+04 Prototyping
+> A [Version 1](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-1)
+<br /> B [Version 2](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-2)
+
+05 [Business Model Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Business-Model-Canvas)
+
+05 [Final Presentation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Final-Presentation)
