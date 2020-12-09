@@ -22,15 +22,6 @@ The problem was approached systematically through a process beginning with resea
 
 <br/>
 
-**AUTHORS**
-
- - Adrian Berger (HM)
- - Diana Marjanovic (HM)
- - Min Ho Kim (Cal Poly)
- - Sophia Weissenberger (HM)
-
-<br/>
-
 **WIKI NAVIGATION**
 
 01 [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki)
@@ -50,6 +41,15 @@ The problem was approached systematically through a process beginning with resea
 05 [Business Model Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Business-Model-Canvas)
 
 05 [Final Presentation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Final-Presentation)
+
+<br/>
+
+**AUTHORS**
+
+ - Adrian Berger (HM)
+ - Diana Marjanovic (HM)
+ - Min Ho Kim (Cal Poly)
+ - Sophia Weissenberger (HM)
 
 <br/>
 
