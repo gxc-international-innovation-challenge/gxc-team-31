@@ -69,7 +69,7 @@ The problem was approached systematically through a process beginning with resea
  
  **RELEVANT FILES & LINKS**
  
- - Github Page: 
+ - Github Page: https://gxc-international-innovation-challenge.github.io/gxc-team-31/
  - Final Prototype (v2.0): https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31
  - Final Presentation: https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/slides.pdf
  - Final 60-Second Pitch: https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/kimminho_team31_gxc_pitch_w20.pdf
