@@ -49,7 +49,7 @@ The problem was approached systematically through a process beginning with resea
  - Adrian Berger (HM)
  - Diana Marjanovic (HM)
  - Min Ho Kim (Cal Poly)
- - Sophia Weissenberger (HM)
+ - Sophia Weißenberger (HM)
 
 <br/>
 
