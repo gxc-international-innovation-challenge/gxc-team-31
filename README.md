@@ -22,6 +22,15 @@ The problem was approached systematically through a process beginning with resea
 
 <br/>
 
+**AUTHORS**
+
+ - Adrian Berger (HM)
+ - Diana Marjanovic (HM)
+ - Min Ho Kim (Cal Poly)
+ - Sophia Weissenberger (HM)
+
+<br/>
+
 **WIKI NAVIGATION**
 
 01 [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki)
@@ -41,3 +50,32 @@ The problem was approached systematically through a process beginning with resea
 05 [Business Model Canvas](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Business-Model-Canvas)
 
 05 [Final Presentation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Final-Presentation)
+
+<br/>
+
+**ACKNOWLEDGEMENTS**
+
+ - Fernanda Andaloft served as coach and mentor for the team throughout the project.
+ - Dr. Gudrun Socher provided helpful feedback and advice weekly.
+ - Dr. Manuela Sauer represented the KJR during meetings with the challenge giver and provided helpful feedback.
+ - Countless students and educators were gracious enough to allow us to take time out of their busy days to interview them.
+ - [Conceptboard](https://conceptboard.com/) and [Miro](https://miro.com/) were used for brainstorming.
+ - [The Team Canvas](theteamcanvas.com) was used to create our team canvas.
+ - [Storyboard That](https://www.storyboardthat.com/) was used to create our storyboards.
+ - [Figma](figma.com) was used for prototyping.
+ - [Strategyzer](strategyzer.com) was used to create our business model canvas.
+ 
+ <br/>
+ 
+ **RELEVANT FILES & LINKS**
+ 
+ - Github Page: 
+ - Final Prototype (v2.0): https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31
+ - Final Presentation: https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/slides.pdf
+ - Final 60-Second Pitch: https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/kimminho_team31_gxc_pitch_w20.pdf
+ - First Prototype (v1.0): https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down)
+ - Business Model Canvas: https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-31/main/BMC.PNG?token=ARLFWAULOLWVSSZGJROGSE273GNO6
+ - Storyboard: https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-31/main/Storyboard-7.PNG?token=ARLFWAQLEKPSOQQ4GPIEJHC73GNSW
+ - Team Canvas: https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-31/main/TEAM%20CANVAS.PNG?token=ARLFWAVSQOAMVHPIE2BHU2273GNWK
+ - Team Conceptboard: https://app.conceptboard.com/board/7pqq-mheq-fpg8-r8o8-5crn
+ - Team Miro board: https://miro.com/app/board/o9J_khQyVOQ=/
