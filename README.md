@@ -1,6 +1,6 @@
 ## InterCos 31
 
-InterCos 31 is an international team of four bachelor students in various fields of study, working toward the development of a single digital solution to design constraints and problems presented by the Munich City Youth District Association. The team was created in a challenge hosted by Hochschule München (HM) in the fall of 2020 in the midst of the COVID-19 pandemic.
+InerCos 31 is an international team of four bachelor students in various fields of study, working toward the development of a single digital solution to design constraints and problems presented by the Munich City Youth District Association. The team was created in a challenge hosted by Hochschule München (HM) in the fall of 2020 in the midst of the COVID-19 pandemic.
 
 <br/>
 
@@ -16,7 +16,7 @@ The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of comm
 
 ---
 <p>
-  <a href=""><img  align='right' src="https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-31/main/readMeImg/ProtoAdult.gif?token=AH4HQEAIKXWNSY7BMKOJ66C73OPGW"></a>
+  <a href=""><img  align='right' src="main/readMeImg/ProtoAdult.gif"></a>
 </p>
 
 **The Solution** 
