@@ -69,7 +69,7 @@ The problem was approached systematically through a process beginning with resea
 
 03 [Ideation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
 
-04 [Prototyping](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototype)
+04 [Prototype](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototype)
 > A [Version 1](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-1)
 <br /> B [Version 2](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-2)
 
