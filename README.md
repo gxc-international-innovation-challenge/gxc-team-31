@@ -46,7 +46,8 @@ The problem was approached systematically through a process beginning with resea
   <a href=""><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/protoKids.gif"></a>
 </p>
 
-- Prototyping: An [initial prototype](https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down) was produced and shared with the KJR for feedback. The prototype was also tested with other critics including children and web developers. Using feedback from the first prototype we produced an improved [second prototype](https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31?node-id=0%3A1&scaling=scale-down) featuring a kids version with simplified menu layouts and general improvements in all areas.
+- Prototyping: An [initial prototype](https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down) was produced and shared with the KJR for feedback. The prototype was also tested with other critics including children and web developers. Using feedback from the first prototype we produced an improved [second prototype](https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31?node-id=0%3A1&scaling=scale-down) featuring a kids version with simplified menu layouts and general improvements in all areas.<br/>
+*Instructions for Protoype* [here](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototype)
 
 <br/><br/><br/>
 
@@ -63,7 +64,7 @@ The problem was approached systematically through a process beginning with resea
 
 03 [Ideation](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
 
-04 Prototyping
+04 [Prototyping](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototype)
 > A [Version 1](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-1)
 <br /> B [Version 2](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Prototyping-a-solution:--Sprint-2)
 
