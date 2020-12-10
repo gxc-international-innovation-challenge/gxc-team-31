@@ -16,7 +16,7 @@ The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of comm
 
 ---
 <p>
-  <a href=""><img  align='right' src="main/readMeImg/ProtoAdult.gif"></a>
+  <a href=""><img  align='right' src="readMeImg/ProtoAdult.gif"></a>
 </p>
 
 **The Solution** 
