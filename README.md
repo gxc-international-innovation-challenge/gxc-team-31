@@ -16,7 +16,7 @@ The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of comm
 
 ---
 <p>
-  <a href=""><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
+  <a href=""><img  align='right' src="https://raw.githubusercontent.com/gxc-international-innovation-challenge/gxc-team-31/main/readMeImg/ProtoAdult.gif?token=AH4HQEAIKXWNSY7BMKOJ66C73OPGW"></a>
 </p>
 
 **The Solution** 
