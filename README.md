@@ -11,7 +11,7 @@ InerCos 31 is an international team of four bachelor students in various fields 
 
 The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of communication and engagement with youth in processes within the city of Munich. Youngsters in the KJR's normally engaged in processes in-person at local youth centers under the supervision of group leaders. The onset of COVID-19 limited such activities, and thus stifled youth engagement dramatically.
 
-*Read the Problem Statement here.*
+*Read the* [Problem Statement](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Problem-Statement) *here.*
 <br/>
 
 ---
