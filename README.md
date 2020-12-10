@@ -4,12 +4,25 @@ InerCos 31 is an international team of four bachelor students in various fields 
 
 <br/>
 
+---
+
+
 **The Problem**
 
 The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of communication and engagement with youth in processes within the city of Munich. Youngsters in the KJR's normally engaged in processes in-person at local youth centers under the supervision of group leaders. The onset of COVID-19 limited such activities, and thus stifled youth engagement dramatically.
 
 Read the Problem Statement here.
 <br/>
+
+---
+
+**The Solution**
+
+A digital tool that aims to support the KJR in offering processes that include discussion, voting, and information exchange for interestesd youngster. (Age group: 6y.-21y.)
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
+</p>
 
 **APPROACH**
 
