@@ -31,8 +31,8 @@ Also offering relevant administrativ options and a "For Kids" mode that enables 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
 - Research: A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective. Supported by a study of precedent projects that have dealt with similar situations in different regions around the world.
-<br/>
-*Checkout the [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) and [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)*
+
+*Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) and [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
 
 - Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. 
 <br/>
