@@ -34,7 +34,7 @@ The problem was approached systematically through a process beginning with resea
 - Research: A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective. Supported by a study of precedent projects that have dealt with similar situations in different regions around the world.<br/>*Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) *and* [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
 <br/>
 <a>
-  <img style="border-radius:50%" align="left" src='readMeImg/storyboard-thumb.png' />
+  <img style="border-radius:50%" align="left" src='readMeImg/storyboard-thumb.PNG' />
 </a>
 
 - Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.<br/>*Checkout the* [Storyboard, Press-Release and FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
