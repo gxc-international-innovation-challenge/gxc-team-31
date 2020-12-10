@@ -21,7 +21,7 @@ The Kreisjugendring München-Stadt (KJR) lacks appropriate digital means of comm
 
 **The Solution** 
 
-A digital tool that aims to support the KJR in offering processes that include discussion, voting, and information exchange for interestesd youngster. (Age group: 6y.-21y.)
+A digital tool that aims to support the KJR in offering processes that include discussion, voting, and information exchange for interestesd youngster. (Age group: 7y.-21y.)
 Also offering relevant administrativ options and a "For Kids" mode that enables younger/disadvantaged to take part in processes of their local communities.
 
 ---
