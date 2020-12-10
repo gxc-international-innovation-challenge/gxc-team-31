@@ -16,12 +16,15 @@ Read the Problem Statement here.
 
 ---
 
-**The Solution**
+**The Solution** 
+<p>
+  <a href="https://waylonwalker.com/latest"><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
+</p>
 
 A digital tool that aims to support the KJR in offering processes that include discussion, voting, and information exchange for interestesd youngster. (Age group: 6y.-21y.)
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
+  <a href="https://waylonwalker.com/latest"><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
 </p>
 
 **APPROACH**
