@@ -16,7 +16,7 @@ Read the Problem Statement here.
 
 ---
 <p>
-  <a href="https://waylonwalker.com/latest"><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
+  <a href=""><img  align='right' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/ProtoAdult.gif"></a>
 </p>
 
 **The Solution** 
@@ -26,17 +26,22 @@ Also offering relevant administrativ options and a "For Kids" mode that enables 
 
 ---
 
+
 **APPROACH**
 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
 - Research: A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective. Supported by a study of precedent projects that have dealt with similar situations in different regions around the world.
 
-*Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) and [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
+*Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) *and* [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
 
+<p>
+  <a href=""><img  align='left' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/storyboard-thumb.PNG
+"></a>
+</p>
 - Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. 
-<br/>
-*Checkout the [Storyboard, Ideation and FAQ]*(https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
+
+*Checkout the* [Storyboard, Ideation and FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
 
 - Prototyping: An [initial prototype](https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down) was produced and shared with the KJR for feedback. The prototype was also tested with other critics including children and web developers. Using feedback from the first prototype, an improved [second prototype](https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31?node-id=0%3A1&scaling=scale-down) was produced for final presentation.
 
