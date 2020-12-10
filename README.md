@@ -36,7 +36,7 @@ The problem was approached systematically through a process beginning with resea
 *Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) *and* [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
 
 <p>
-  <a href=""><img  align='left' src="https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/storyboard-thumb.png"></a>
+  <a href=""><img  align='left' src='https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/storyboard-thumb.png'></a>
 </p>
 - Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. 
 
