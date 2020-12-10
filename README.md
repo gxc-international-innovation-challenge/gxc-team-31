@@ -24,11 +24,14 @@ Read the Problem Statement here.
 A digital tool that aims to support the KJR in offering processes that include discussion, voting, and information exchange for interestesd youngster. (Age group: 6y.-21y.)
 Also offering relevant administrativ options and a "For Kids" mode that enables younger/disadvantaged to take part in processes of their local communities.
 
+---
+
 **APPROACH**
 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
-- Research: This included a study of [precedent projects](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research) that have dealt with similar situations in different regions around the world. The issue of youth involvement and the lack thereof was a significant research point, indicating the need for communities to work toward positive relationships between adults and youth, creating a supportive community where youth may find a profound sense of belonging. A wide breadth of [interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) were conducted with youngsters as well as educators to gain a deeper understanding and perspective.
+- Research: A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective. Supported by a study of precedent projects that have dealt with similar situations in different regions around the world.
+Checkout the [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) and [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
 
 - Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a [storyboard](https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/Storyboard-7.PNG), a [press release](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation), and [frequently-asked-questions](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation). This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.
 
