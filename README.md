@@ -37,8 +37,10 @@ The problem was approached systematically through a process beginning with resea
   <img style="border-radius:50%" align="left" src='https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/storyboard-thumb.PNG' />
 </a>
 
-- Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.<br/>*Checkout the* [Storyboard, Ideation and FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
-
+- Brainstorming & Ideation: The next phase involved a synthesis of the research data acquired into a series of imaginary documents, including a storyboard, a press release, and frequently-asked-questions. This helped to make clearer what sort of solution the team wanted to achieve, and the goals to aim for along the way.<br/>*Checkout the* [Storyboard, Press-Release and FAQ](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Assignment-Ideation)
+<br/>
+<br/>
+<br/>
 - Prototyping: An [initial prototype](https://www.figma.com/proto/NT97XEBawDZI0jdY4pDuLH/gxc_prototype_v1.0_31?node-id=0%3A1&scaling=scale-down) was produced and shared with the KJR for feedback. The prototype was also tested with other critics including children and web developers. Using feedback from the first prototype, an improved [second prototype](https://www.figma.com/proto/2mMAvq56hEX7r5Xwsx5KP8/gxc_prototype_v2.0_31?node-id=0%3A1&scaling=scale-down) was produced for final presentation.
 
 <br/>
