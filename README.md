@@ -32,7 +32,7 @@ Also offering relevant administrativ options and a "For Kids" mode that enables 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
 - Research: A wide breadth of interviews were conducted with youngsters as well as educators to gain a deeper understanding and perspective. Supported by a study of precedent projects that have dealt with similar situations in different regions around the world.<br/>*Checkout the* [Interviews](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Stakeholder-Interviews) *and* [Research](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki/Research)
-
+<br/>
 <a>
   <img style="border-radius:50%" align="left" src='https://github.com/gxc-international-innovation-challenge/gxc-team-31/blob/main/readMeImg/storyboard-thumb.PNG' />
 </a>
