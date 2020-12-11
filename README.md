@@ -1,3 +1,7 @@
+<p>
+  <a href=""><img  align='right' src="readMeImg/banner.jpg"></a>
+</p>
+
 ## InterCos 31
 
 InterCos 31 is an international team of four bachelor students in various fields of study, working toward the development of a single digital solution to design constraints and problems presented by the Munich City Youth District Association. The team was created in a challenge hosted by Hochschule München (HM) in the fall of 2020 in the midst of the COVID-19 pandemic.
