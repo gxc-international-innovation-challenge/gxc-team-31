@@ -2,7 +2,7 @@
   <a href=""><img  align='right' src="readMeImg/banner.jpg"></a>
 </p>
 
-<br/>
+
 
 ## InterCos 31
 
