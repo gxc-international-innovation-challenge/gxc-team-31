@@ -1,5 +1,5 @@
 <p>
-  <a href=""><img  align='right' src="readMeImg/banner.jpg"></a>
+  <a href=""><img  align='left' src="readMeImg/banner.jpg"></a>
 </p>
 
 
