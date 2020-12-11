@@ -27,7 +27,7 @@ Also offering relevant administrativ options and a "For Kids" mode that enables 
 ---
 
 
-**APPROACH**
+**Approach**
 
 The problem was approached systematically through a process beginning with research, followed by rapid brainstorming, ideation, and prototyping.
 
@@ -57,7 +57,7 @@ The problem was approached systematically through a process beginning with resea
 <br />Check out our [Github Pages](https://gxc-international-innovation-challenge.github.io/gxc-team-31/).
 ***
 
-**WIKI NAVIGATION**
+**Wiki Navigation**
 
 01 [Home](https://github.com/gxc-international-innovation-challenge/gxc-team-31/wiki)
 
