@@ -58,10 +58,12 @@ The problem was approached systematically through a process beginning with resea
 <br/><br/><br/><br/>
 
 
-***
+---
+
 **If you want:**
 <br />Check out our [Github Pages](https://gxc-international-innovation-challenge.github.io/gxc-team-31/).
-***
+
+---
 
 **Wiki Navigation**
 
